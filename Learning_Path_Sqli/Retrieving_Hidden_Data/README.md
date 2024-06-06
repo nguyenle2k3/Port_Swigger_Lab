@@ -22,4 +22,6 @@ Vì 1=1 luôn đúng và phần sql phía sau -- bị comment nên câu truy v�
 SELECT * FROM products WHERE category = 'Gifts' or 1=1
 ```
 Như vậy kết quả trả về sẽ là toàn bộ sản phẩm, bao gồm các hàng bị ẩn.
+
+
 ![Image](https://i.pinimg.com/736x/f5/68/04/f56804886125925b781864924c8c8ddc.jpg)

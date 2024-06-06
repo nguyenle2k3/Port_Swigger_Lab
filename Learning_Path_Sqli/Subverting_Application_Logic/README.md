@@ -16,4 +16,6 @@ Với `zious` và `p4$$w0rd` là dữ liệu nhập vào form đăng nhập.<br>
 SELECT * FROM users WHERE username = 'administrator'-- ' and password = ''
 ```
 Vì phần sau comment `-- ` bị bỏ qua nên sẽ chỉ xét điều kiện username = 'administrator'. Nếu tồn tại tài khoản thì sẽ trả về thông tin tài khoản và thực hiện đăng nhập.
+
+
 ![Image](https://i.pinimg.com/736x/f5/68/04/f56804886125925b781864924c8c8ddc.jpg)
